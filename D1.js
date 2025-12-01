@@ -86,7 +86,7 @@ let name1 = "john";
 let name2 = "John";
 let exResult;
 
-console.log("Esercizio 7:", "il risultato è =", name1 !== name2);
+console.log("Esercizio 7:", "utilizzando la disuguaglianza stretta, il risultato è =", name1 !== name2);
 
 if (name1 !== name2) {
   exResult = "Quindi name1 e name2 sono diversi!";
