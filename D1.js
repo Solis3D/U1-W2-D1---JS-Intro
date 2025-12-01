@@ -24,6 +24,8 @@ Null: valore vuoto, nullo. Ovvero si usa per rappresentare assenza intenzionale 
 
 */
 
+console.log("Esercizio 1: Aprire il file .js per scoprire le risposte =) ");
+
 /* ESERCIZIO 2
  Crea una variable chiamata "myName" e assegna ad essa il tuo nome, sotto forma di stringa.
 */
